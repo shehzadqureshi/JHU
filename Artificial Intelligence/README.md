@@ -1,2 +1,1 @@
-<u><b>Artificial Intelligence</b></u><br />
-<a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/shehzadqureshi/JHU/master/Artificial%20Intelligence/01%20-%20State%20Space%20Search.html">State Space Search</a>
+<a href="http://nbviewer.ipython.org/github/shehzadqureshi/JHU/tree/master/Artificial%20Intelligence/">IPython Notebook Viewer</a>
